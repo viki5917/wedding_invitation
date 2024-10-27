@@ -108,5 +108,3 @@ var styles2 = [
   "font-weight: bold",
   "font-size: 32px",
 ].join(";");
-
-console.log("\n\n%c SAVE THE DATE: 14th Feb, 2021", styles);
